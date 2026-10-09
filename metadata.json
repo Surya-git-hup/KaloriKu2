@@ -1,0 +1,6 @@
+{
+  "name": "KaloriKu - Pelacak Kalori & Nutrisi AI",
+  "description": "Aplikasi pelacak kalori harian, pemindai makanan kamera AI, dan monitoring nutrisi cerdas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
